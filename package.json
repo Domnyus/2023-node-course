@@ -1,0 +1,17 @@
+{
+  "name": "2023-node-course",
+  "version": "0.0.1",
+  "description": "Writing a free course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^21.0.0",
+    "react": "^18.2.0",
+    "vue": "^3.3.6"
+  }
+}
